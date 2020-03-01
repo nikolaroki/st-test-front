@@ -1,0 +1,28 @@
+.FormContainer {
+  color: #ffffff;
+  width: 30%;
+  margin: 150px auto;
+  background-color: #b6d94c;
+  text-align: center;
+  box-shadow: 0 6px 93px #ccc;
+  border: 1px solid #728c23;
+  padding: 40px;
+  box-sizing: border-box;
+  border-radius: 10px;
+  min-width: 500px;
+}
+
+.Input {
+  margin: 3px;
+  display: inline-block;
+  box-sizing: border-box;
+}
+
+.Invalid {
+  border: 1px solid red;
+  background-color: rgb(238, 171, 163);
+}
+
+.MarginSpinner {
+  margin: 150px 0 0 0;
+}

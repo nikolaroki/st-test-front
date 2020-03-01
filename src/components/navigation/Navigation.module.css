@@ -1,0 +1,15 @@
+@media (min-width: 499px) {
+  .Mobile {
+    display: none;
+  }
+}
+
+@media (max-width: 499px) {
+  .Desktop {
+    display: none;
+  }
+}
+
+.Mobile {
+  padding-top: 10px;
+}
